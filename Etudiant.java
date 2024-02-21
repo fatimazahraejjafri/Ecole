@@ -5,4 +5,5 @@ int Num
 String Email
 int age 
 int score
+float Notes
 }
