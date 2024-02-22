@@ -1,6 +1,6 @@
 Class Etuadiant {
 
-String Name
+String noncomplet
 int Num
 String Email
 int age 
