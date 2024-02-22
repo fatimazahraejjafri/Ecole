@@ -6,4 +6,9 @@ String Email
 int age 
 int score
 float notes
+
+
+public const(){
+
+}
 }
